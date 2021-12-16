@@ -14,6 +14,8 @@
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-pwa": "^1.7.1",
+    "mysql2": "^2.3.3",
+    "sequelize-auto": "^0.8.8",
     "vuepress": "^1.7.1",
     "vuepress-theme-cool": "^1.3.1"
   }
